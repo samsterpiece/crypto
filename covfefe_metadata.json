@@ -1,0 +1,12 @@
+{
+    "name": "Covfefe",
+    "symbol": "CVFE",
+    "creators": [
+        {
+            "address": "7n7EEftLYvYUwpoNbsd2ewCcyBRKdbCaYjuztGJBfNww",
+            "share": 100
+        }
+    ],
+    "description": "Despite crypto, covfefe",
+    "image": "https://raw.githubusercontent.com/samsterpiece/crypto/main/COVFEFE.png"
+}
